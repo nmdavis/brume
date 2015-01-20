@@ -1,12 +1,9 @@
-markdown: redcarpet
-highlighter: null
+markdown: kramdown
+highlighter: pygments
 permalink: /:title
 
-url:
-baseurl:
-
-redcarpet:
-  extensions: [strikethrough, tables]
+url: https://nmdavis.github.io
+baseurl: 
 
 sass:
   sass_dir: public/css
